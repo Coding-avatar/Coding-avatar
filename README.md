@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey 👋, This is Md Nife Salil Islam
+[![Gmail Badge](https://img.shields.io/badge/-nifesalilislam@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nifesalilislam@gmail.com)](mailto:nifesalilislam@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/mdnife-salil-islam-53384b125/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/mdnife-salil-islam-53384b125//)](https://www.linkedin.com/in/https://www.linkedin.com/in/mdnife-salil-islam-53384b125//) [![Github Badge](https://img.shields.io/badge/-Codingavatar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Codingavatar/)](https://www.github.com/Codingavatar/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Coding-avatar/)](https://github.com/Coding-avatar/) <p align='left'>I am a simple person with a not so common interests. Fellow humans pushing boundaries in any fields excites me. 
+I love to code and solve problems. 
+Occasionally a Chef and a Weekend Biker.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1AagBi5cxbynaq6ENvl7V9aMC5HzHPIJW/view?usp=share_link ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Codingavatar alt=Codingavatar /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Codingavatar&show_icons=true&include_all_commits=true)](https://github.com/Codingavatar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingavatar&layout=compact)](https://github.com/Codingavatar/github-readme-stats)
